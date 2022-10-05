@@ -4,6 +4,10 @@ A chrome extension that will automate the LinkedIn connections for you.
 
 ## Working Demo
 
+
+https://user-images.githubusercontent.com/53134669/194039437-5c4bbb86-a7ae-4722-98cf-d0b9d5fba7d4.mp4
+
+
 ## How to start the project?
 
 1. Clone the repo by using `git clone https://github.com/amankrx/linkedin-connect-bot.git`
